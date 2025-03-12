@@ -9,10 +9,10 @@ export const About = () => {
           <h2 className="heading text-3xl md:text-4xl text-center mb-12 animate-fade-down">About Me</h2>
           <Card className="glass-card p-8 transform hover:scale-[1.02] transition-all duration-300 animate-fade-up">
             <p className="text-lg leading-relaxed text-muted-foreground">
-              I'm a passionate developer with a keen eye for design and a love for creating seamless user experiences. With expertise in modern web technologies, I transform ideas into elegant, functional solutions.
+              As a student passionate about technology and design, I bring together the worlds of development and creativity. With expertise in graphic design and editing, I create visually stunning and functional digital experiences.
             </p>
             <p className="text-lg leading-relaxed text-muted-foreground mt-4">
-              My journey in technology has equipped me with a deep understanding of both frontend and backend development, allowing me to build comprehensive solutions that meet real-world needs.
+              My unique combination of skills allows me to approach projects from multiple angles, ensuring both aesthetic appeal and technical excellence in everything I create.
             </p>
           </Card>
         </div>
